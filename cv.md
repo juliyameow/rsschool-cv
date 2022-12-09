@@ -20,7 +20,7 @@ ___
 * 3Dsmax
 ___
 ####Education
-* Institute of Business and Design
+* Institute of Business and Design 2019
 * Сourses 3Dsmax
 ___
 ####Languages:
