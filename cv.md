@@ -21,7 +21,7 @@ ___
 ___
 ####Education
 * Institute of Business and Design 2019
-* Сourses 3Dsmax
+* Сourses 3Dsmax+Corona Render
 ___
 ####Languages:
 * English-A2
