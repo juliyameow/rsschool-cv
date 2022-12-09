@@ -17,7 +17,7 @@ ___
 * InDesign
 * ARCHICAD
 * SketchUp
-* 3Dsmax
+* 3Dsmax+Corona Render
 ___
 ####Education
 * Institute of Business and Design 2019
